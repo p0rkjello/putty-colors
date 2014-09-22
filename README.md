@@ -18,3 +18,12 @@ https://gist.github.com/GDvalle/4187089
 
 https://silvenga.com/just-another-putty-color-scheme/
   * Slight
+ 
+https://github.com/curvve/themes/tree/master/NightLion%20themes
+  * NightLion
+
+https://github.com/chriskempson/base16
+  * Base16-3024 
+ 
+
+  
