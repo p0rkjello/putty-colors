@@ -1,9 +1,11 @@
-putty-colors
-============
+# putty-colors
 
+Collection of putty color themes from around the web.
+
+##  * Igvita
+##  * Igvita Light
 https://www.igvita.com/2008/04/14/custom-putty-color-themes
-  * Igvita
-  * Igvita Light
+
   
 http://arcanesanctum.net/2012/11/17/a-better-terminal-color-theme-for-putty
 
