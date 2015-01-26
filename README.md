@@ -2,15 +2,16 @@
 
 Collection of putty color themes from around the web.
 
-  * Igvita
-  * Igvita Light
+### Igvita
+### Igvita Light
+
 https://www.igvita.com/2008/04/14/custom-putty-color-themes
 
   
 http://arcanesanctum.net/2012/11/17/a-better-terminal-color-theme-for-putty
 
 https://github.com/voieducode/putty-colors-zenburn
-  * Zenburn
+### Zenburn
 
 https://github.com/brantb/solarized/tree/master/putty-colors-solarized
   * Solarized
