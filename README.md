@@ -2,8 +2,8 @@
 
 Collection of putty color themes from around the web.
 
-##  * Igvita
-##  * Igvita Light
+  * Igvita
+  * Igvita Light
 https://www.igvita.com/2008/04/14/custom-putty-color-themes
 
   
